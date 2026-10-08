@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>479</ID>
+      <Description>"Players"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>478</ID>
+          <Description>"Stats"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>569</ID>
+              <Description>"Stat Tidus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>728</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>480</ID>
+              <Description>"Stat Yuna"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>7BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>481</ID>
+              <Description>"Stat Wakka"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>978</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>482</ID>
+              <Description>"Stat Lulu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>A0C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>574</ID>
+              <Description>"Stat Rikku"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>AA0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>576</ID>
+              <Description>"Stat Auron"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>850</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>579</ID>
+              <Description>"Stat Auron"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>8E4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>570</ID>
+          <Description>"S.Lvl (Stat + 2Fh)"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>494</ID>
+              <Description>"S.Lvl Tidus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>757</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>571</ID>
+              <Description>"S.Lvl Yuna"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>7EB</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>572</ID>
+              <Description>"S.Lvl Wakka"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>9A7</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>573</ID>
+              <Description>"S.Lvl Lulu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>A3B</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>575</ID>
+              <Description>"S.Lvl Rikku"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>ACF</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>577</ID>
+              <Description>"S.Lvl Auron"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>87F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>578</ID>
+              <Description>"S.Lvl Kimahri"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>913</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>484</ID>
+      <Description>"Inventori"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>473</ID>
+          <Description>"1st Item"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+          <Offsets>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>486</ID>
+          <Description>"1st Item Qty"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+          <Offsets>
+            <Offset>21C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>549</ID>
+          <Description>"Equipment (Slot +3H)"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>483</ID>
+              <Description>"1st Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>5FA</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>553</ID>
+              <Description>"2nd Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>610</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>555</ID>
+              <Description>"3rd Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>626</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>557</ID>
+              <Description>"4th Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>63C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>551</ID>
+              <Description>"5th Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>652</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>559</ID>
+              <Description>"6th Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>668</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>561</ID>
+              <Description>"7th Weapon Bonus"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>67E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1089</ID>
+              <Description>"Slots (1st + 16h)"</Description>
+              <Options moHideChildren="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>485</ID>
+                  <Description>"1st Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>5F7</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>552</ID>
+                  <Description>"2nd Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>60d</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>554</ID>
+                  <Description>"3rd Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>623</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>556</ID>
+                  <Description>"4th Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>639</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>550</ID>
+                  <Description>"5th Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>64F</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>558</ID>
+                  <Description>"6th Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>665</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>560</ID>
+                  <Description>"7th Weapon Slot"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+                  <Offsets>
+                    <Offset>67B</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>490</ID>
+      <Description>"Blitzball (Ball holder's Stats. Only when encounter happens)"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>489</ID>
+          <Description>"EN"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03183018</Address>
+          <Offsets>
+            <Offset>D38</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>49</Key>
+              </Keys>
+              <Value>99</Value>
+              <Description>Winner</Description>
+              <ID>1</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>50</Key>
+              </Keys>
+              <Value>0</Value>
+              <Description>Loser</Description>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>65</Key>
+              </Keys>
+              <ID>2</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>491</ID>
+          <Description>"Blitz PA (EN + 4)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03183018</Address>
+          <Offsets>
+            <Offset>D3C</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>49</Key>
+              </Keys>
+              <Value>99</Value>
+              <Description>Winner</Description>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>50</Key>
+              </Keys>
+              <Value>0</Value>
+              <Description>Loser</Description>
+              <ID>1</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>65</Key>
+              </Keys>
+              <ID>2</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>492</ID>
+          <Description>"Blitz SH (PA +4)"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03183018</Address>
+          <Offsets>
+            <Offset>D40</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>50</Key>
+              </Keys>
+              <Value>0</Value>
+              <Description>Loser</Description>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>49</Key>
+              </Keys>
+              <Value>99</Value>
+              <Description>Winner</Description>
+              <ID>2</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>65</Key>
+              </Keys>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>493</ID>
+          <Description>"Timer"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03183018</Address>
+          <Offsets>
+            <Offset>E54</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>51</Key>
+              </Keys>
+              <Value>299</Value>
+              <Description>Finish Now!</Description>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>499</ID>
+      <Description>"Chocobos"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>541</ID>
+          <Description>"Chocobo Pole Hit"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+03180C10</Address>
+          <Offsets>
+            <Offset>78E</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>542</ID>
+          <Description>"Chocobo Chest Opened"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+03180C10</Address>
+          <Offsets>
+            <Offset>78F</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>503</ID>
+          <Description>"Chocobo Race Balloon"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"FFX.exe"+00F2FF14</Address>
+          <Offsets>
+            <Offset>1FB</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>504</ID>
+          <Description>"Chocobo Race Bird Hit"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"FFX.exe"+00F2FF14</Address>
+          <Offsets>
+            <Offset>1FD</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>505</ID>
+          <Description>"Chocobo Time"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"FFX.exe"+00F2FF14</Address>
+          <Offsets>
+            <Offset>1D8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>508</ID>
+          <Description>"Chocobo Time .Sec"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+03180DB8</Address>
+          <Offsets>
+            <Offset>22D</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>509</ID>
+          <Description>"Chocobo Time .MiliSec"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"pcsx2-qt.exe"+03180DB8</Address>
+          <Offsets>
+            <Offset>22C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>512</ID>
+      <Description>"Aeons"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>513</ID>
+          <Description>"Valefor"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>511</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>BE0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>516</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>BC0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>514</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>BC4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>515</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>BC8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>517</ID>
+          <Description>"Ifrit"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>518</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>C74</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>519</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>C54</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>520</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>C58</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>521</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>C5C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>522</ID>
+          <Description>"Ixion"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>523</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>D08</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>524</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>CE8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>525</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>CEC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>526</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>CF0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>527</ID>
+          <Description>"Shiva"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>528</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>D9C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>529</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>D7C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>530</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>D80</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>531</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>D84</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>532</ID>
+          <Description>"Bahamut"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>534</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>E30</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>535</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>E10</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>536</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>E14</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>537</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>E18</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1063</ID>
+          <Description>"Anima"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1064</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>EC4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1065</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>EA4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1066</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>EA8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1067</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>EAC</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>544</ID>
+          <Description>"Yojimbo"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>545</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>F58</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>546</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>F38</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>547</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>F3C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>548</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>F40</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1069</ID>
+          <Description>"Cindy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1070</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>FEC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1071</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>FCC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1072</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>FD0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1073</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F0</Address>
+              <Offsets>
+                <Offset>FD4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1074</ID>
+          <Description>"Sandy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1080</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>80</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1081</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>60</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1082</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>64</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1083</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>68</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1084</ID>
+          <Description>"Mindy"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1085</ID>
+              <Description>"Base HP (HP Bonus + 20h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>114</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1086</ID>
+              <Description>"HP Bonus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>F4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1087</ID>
+              <Description>"MP Bonus (HP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>F8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1088</ID>
+              <Description>"Stat Bonus (MP Bonus + 4h)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>8</ByteLength>
+              <Address>"pcsx2-qt.exe"+0317C7F8</Address>
+              <Offsets>
+                <Offset>FC</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>564</ID>
+      <Description>"Battle"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>562</ID>
+          <Description>"Player"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>567</ID>
+              <Description>"HP Pos 1"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"pcsx2-qt.exe"+03182D08</Address>
+              <Offsets>
+                <Offset>6D0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>566</ID>
+          <Description>"Enemy HP Pos 1"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03182D38</Address>
+          <Offsets>
+            <Offset>950</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>977</ID>
+          <Description>"Enemy HP Pos 1"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03183B58</Address>
+          <Offsets>
+            <Offset>130</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>740</ID>
+          <Description>"Enemy HP Pos 1"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"pcsx2-qt.exe"+03184EC8</Address>
+          <Offsets>
+            <Offset>9E0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>586</ID>
+      <Description>"Monster Arena"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>587</ID>
+          <Description>"01 Besaid"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>588</ID>
+              <Description>"1 Dingo"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>364</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>589</ID>
+              <Description>"2 Condor"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>377</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>590</ID>
+              <Description>"3 Water Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36B</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>591</ID>
+          <Description>"02 Kilika"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>741</ID>
+              <Description>"1 Dinonix"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>371</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>742</ID>
+              <Description>"2 Killer Bee"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37A</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>743</ID>
+              <Description>"3 Yellow Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>399</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>744</ID>
+              <Description>"4 Ragora"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>382</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>596</ID>
+          <Description>"03 Mi'ihen Highroad"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>745</ID>
+              <Description>"1 Mi'ihen Fang"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>365</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>752</ID>
+              <Description>"2 Ipiria"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>372</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>751</ID>
+              <Description>"3 Floating Eye"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>750</ID>
+              <Description>"4 White Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39A</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>749</ID>
+              <Description>"5 Raldo"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>35C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>748</ID>
+              <Description>"6 Vouivre"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>747</ID>
+              <Description>"7 Bomb"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B1</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>746</ID>
+              <Description>"8 Dual Horn"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38B</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>753</ID>
+              <Description>"Thunder Flan - real in 04 Mushroom Rock Road"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>605</ID>
+          <Description>"04 Mushroom Rock Road"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>754</ID>
+              <Description>"1 Raptor"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>373</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>758</ID>
+              <Description>"2 Gandarewa"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>361</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>759</ID>
+              <Description>"3 Thunder Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>755</ID>
+              <Description>"4 Red Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39B</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>757</ID>
+              <Description>"5 Lamashtu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>756</ID>
+              <Description>"6 Funguar"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B7</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>941</ID>
+              <Description>"7 Garuda"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>384</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>613</ID>
+          <Description>"05 Djose Road"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>760</ID>
+              <Description>"1 Garm"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>366</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>942</ID>
+              <Description>"2 Simurgh"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>378</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>943</ID>
+              <Description>"3 Bite Bug"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37B</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>761</ID>
+              <Description>"4 Snow Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36D</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>762</ID>
+              <Description>"5 Bunyip"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>35D</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>763</ID>
+              <Description>"6 Basilisk"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AB</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>764</ID>
+              <Description>"7 Ochu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AF</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>621</ID>
+          <Description>"06 Thunder Plain"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>944</ID>
+              <Description>"1 Melusine"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>374</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>947</ID>
+              <Description>"2 Aerouge"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>362</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>946</ID>
+              <Description>"3 Buer"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>945</ID>
+              <Description>"4 Gold Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>948</ID>
+              <Description>"5 Kusariqqu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>390</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>949</ID>
+              <Description>"6 Larva"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B5</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>950</ID>
+              <Description>"7 Iron Giant"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>951</ID>
+              <Description>"8 Qactuar"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B3</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>630</ID>
+          <Description>"07 Macalania"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>952</ID>
+              <Description>"01 Snow Wolf"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>367</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>954</ID>
+              <Description>"02 Iguon"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>375</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>958</ID>
+              <Description>"03 Wasp"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>959</ID>
+              <Description>"04 Evil Eye"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>380</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>953</ID>
+              <Description>"05 Ice Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>957</ID>
+              <Description>"06 Blue Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39D</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>960</ID>
+              <Description>"07 Murussu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>35E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>961</ID>
+              <Description>"08 Mafdet"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>35F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>955</ID>
+              <Description>"09 Xiphos"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BA</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>956</ID>
+              <Description>"10 Chimera"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A3</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>641</ID>
+          <Description>"08 Bikanel"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>963</ID>
+              <Description>"1 Sand Wolf"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>368</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>969</ID>
+              <Description>"2 Alcyone"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>379</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>970</ID>
+              <Description>"3 Mushussu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>391</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>971</ID>
+              <Description>"4 Zu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>385</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>972</ID>
+              <Description>"5 Sand Worm"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>386</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>973</ID>
+              <Description>"6 Cactuar"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>648</ID>
+          <Description>"09 Calm Land"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>978</ID>
+              <Description>"1 Skoll"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>369</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>979</ID>
+              <Description>"2 Nebiros"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>37D</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>980</ID>
+              <Description>"3 Flame Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>981</ID>
+              <Description>"4 Shred"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>360</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>982</ID>
+              <Description>"5 Anacondaur"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>983</ID>
+              <Description>"6 Ogre"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>395</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>984</ID>
+              <Description>"7 Couerl"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A5</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>986</ID>
+              <Description>"8 Chimera Brain"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>985</ID>
+              <Description>"9 Malboro"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>393</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>658</ID>
+          <Description>"10 Stolen Faith / Sunken Cave"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>989</ID>
+              <Description>"1 Yowie"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>376</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>992</ID>
+              <Description>"2 Imp"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>363</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>991</ID>
+              <Description>"3 Dark Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39E</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>993</ID>
+              <Description>"4 Nidhogg"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>392</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>990</ID>
+              <Description>"5 Thorn"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>988</ID>
+              <Description>"6 Vahala"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>987</ID>
+              <Description>"7 Epaaj"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>994</ID>
+              <Description>"8 Ghost"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>388</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>995</ID>
+              <Description>"9 Tonberry"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BE</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>668</ID>
+          <Description>"11 Mt Gagazet"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1006</ID>
+              <Description>"01 Bandersnatch"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>36A</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>999</ID>
+              <Description>"02 Ahriman"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>381</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1007</ID>
+              <Description>"03 Dark Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>370</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>996</ID>
+              <Description>"04 Grenade"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B2</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>997</ID>
+              <Description>"05 Grat"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>383</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1000</ID>
+              <Description>"06 Grendel"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38D</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1003</ID>
+              <Description>"07 Bashura"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>396</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>998</ID>
+              <Description>"08 Mandragora"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1005</ID>
+              <Description>"09 Behemoth"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A1</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1004</ID>
+              <Description>"10 Splasher"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>398</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1002</ID>
+              <Description>"11 Archelous"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>389</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1001</ID>
+              <Description>"12 Maelspike"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>38A</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>681</ID>
+          <Description>"12 Inside Sin"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1047</ID>
+              <Description>"01 Exoray"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B9</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1048</ID>
+              <Description>"02 Wraith"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BD</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1046</ID>
+              <Description>"03 Gemini (Sword)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A9</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1045</ID>
+              <Description>"04 Gemini (Club)"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AA</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1044</ID>
+              <Description>"05 Demonolith"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A7</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1050</ID>
+              <Description>"06 Great Malboro"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>394</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1049</ID>
+              <Description>"07 Barbatos"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3B6</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1042</ID>
+              <Description>"08 Adamantoise"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AD</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1043</ID>
+              <Description>"09 Behemoth King"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A2</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>691</ID>
+          <Description>"13 Omega Dungeon"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1052</ID>
+              <Description>"01 Zaurus"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1053</ID>
+              <Description>"02 Floating Death"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C2</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1055</ID>
+              <Description>"03 Black Element"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>39F</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1054</ID>
+              <Description>"04 Halma"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C1</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1057</ID>
+              <Description>"05 Puroboros"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BB</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1056</ID>
+              <Description>"06 Spirit"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1051</ID>
+              <Description>"07 Machea"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C3</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1059</ID>
+              <Description>"08 Master Coeurl"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3A6</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1058</ID>
+              <Description>"09 Master Tonberry"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3BF</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1060</ID>
+              <Description>"10 Varuna"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3AE</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>702</ID>
+          <Description>"14 Area Conquest"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1008</ID>
+              <Description>"01 Bandersnatch"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1009</ID>
+              <Description>"02 Malboro Menace"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1010</ID>
+              <Description>"03 Kottos"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D9</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1011</ID>
+              <Description>"04 Coeurlregina"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DD</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1012</ID>
+              <Description>"05 Jormungand"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DF</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1016</ID>
+              <Description>"06 Cactuar King"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E2</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1017</ID>
+              <Description>"07 Espada"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E6</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1013</ID>
+              <Description>"08 Abyss Worm"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D5</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1014</ID>
+              <Description>"09 Chimerageist"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1018</ID>
+              <Description>"10 Don Tonberry"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E5</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1015</ID>
+              <Description>"11 Catoblepas"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DB</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1019</ID>
+              <Description>"12 Abaddon"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1020</ID>
+              <Description>"13 Vorban"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E3</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>716</ID>
+          <Description>"15 Species Conquest"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1021</ID>
+              <Description>"01 Fenrir"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CE</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1025</ID>
+              <Description>"02 Ornitholestes"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1026</ID>
+              <Description>"03 Pteryx"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D1</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1027</ID>
+              <Description>"04 Hornet"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D2</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1022</ID>
+              <Description>"05 Vidatu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CD</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1028</ID>
+              <Description>"06 One-Eye"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D3</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1023</ID>
+              <Description>"07 Jumbo Flan"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CF</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1029</ID>
+              <Description>"08 Nega Elemental"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DA</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1024</ID>
+              <Description>"09 Tanket"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1030</ID>
+              <Description>"10 Fafnir"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D7</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1033</ID>
+              <Description>"11 Sleep Sprout"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1034</ID>
+              <Description>"12 Bomb King"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3E1</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1031</ID>
+              <Description>"13 Jaggernaut"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3D6</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1032</ID>
+              <Description>"14 Ironclad"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3DE</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>731</ID>
+          <Description>"16 Original Monster"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1035</ID>
+              <Description>"01 Earth Eater"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C7</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1036</ID>
+              <Description>"02 Greater Sphere"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C9</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1037</ID>
+              <Description>"03 Catastrophe"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C5</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1038</ID>
+              <Description>"04 Thu'uban"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CA</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1039</ID>
+              <Description>"05 Neslug"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C6</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1040</ID>
+              <Description>"06 Ultima Buster"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1041</ID>
+              <Description>"07 ShinRyu"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3CB</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1090</ID>
+              <Description>"08 Nemesis"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>"pcsx2-qt.exe"+0317C7E8</Address>
+              <Offsets>
+                <Offset>3C4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>968</ID>
+      <Description>"Butterfly Timer 2"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"pcsx2-qt.exe"+03180C10</Address>
+      <Offsets>
+        <Offset>CF8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>498</ID>
+      <Description>"Lightning Dodge"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"pcsx2-qt.exe"+03180C18</Address>
+      <Offsets>
+        <Offset>AD6</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>966</ID>
+      <Description>"Butterfly Timer 1"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"pcsx2-qt.exe"+03180CF8</Address>
+      <Offsets>
+        <Offset>E68</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1092</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"pcsx2-qt.exe"+031FD968</Address>
+      <Offsets>
+        <Offset>21C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

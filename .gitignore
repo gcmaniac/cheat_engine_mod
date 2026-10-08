@@ -1,0 +1,56 @@
+# =====================================================================
+# Git Ignore Configuration - Cheat Engine Pointer Adapter
+# =====================================================================
+
+# Compiled Executables & Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Compiler Object Files & Intermediate Artifacts
+*.o
+*.obj
+*.res
+src/*.o
+builder/*.o
+
+# Debug & Symbol Files
+*.pdb
+*.ilk
+*.dmp
+*.map
+
+# Generated Output Cheat Engine Tables (.CT)
+*_modified*.CT
+*.tmp
+*.bak
+
+# Build & Log Files
+*.log
+build/
+bin/
+out/
+
+# IDE & Editor Configurations
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# Operating System Specific
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Antigravity IDE / Agent Metadata
+.gemini/
+.agents/
